@@ -27,6 +27,8 @@ This week’s release was curated by [Ryo Nakagawara](), with help from the R We
 
 + [Macroeconomic data for France, Germany, Italy, Spain & the Euro Area](https://macro.cepremap.fr/article/2021-02/five-countries-data/)
 
++ [Are Countries Manipulating COVID-19 Data? Testing Benford's Law on COVID-19 Data](https://www.harsh17.in/blog/are-countries-manipulating-covid-19-data)
+
 ###  R in Organizations
 
 
